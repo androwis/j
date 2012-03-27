@@ -1,0 +1,15 @@
+This is my implementation of an algorithmic url shortener for github pages...
+
+This overloads your 404.html page.  I understand this might be frowned upon :)
+
+Goals: 
+  I wanted to be able to hand out sexy short links, while hosting my pages for free on github.
+  Maintain 404 functionality if shortening fails.
+  Not write more than 10 lines of code.
+  
+Just put the 404.html file on your github page's directory.
+
+Algorithmic part will be built out as I clean up my site, but feel free to change and suit to your needs. 
+
+Free for any and all use.  Fork, go to town, whatever.  Attribution is nice, not necessary.  
+Andrew.
