@@ -13,3 +13,11 @@ Algorithmic part will be built out as I clean up my site, but feel free to chang
 
 Free for any and all use.  Fork, go to town, whatever.  Attribution is nice, not necessary.  
 Andrew.
+
+Known Issues:
+  --Crawlers/Meta Tag support (some people have redirect disabled... this sucks for them, Crawler's & JS)
+  --Would be nice to algorithmically setup a 301 Redirect.
+
+Possible Additions:
+  --Add a form that'll compress a URL for you.  Then you can tweet about it.
+  --Include a clickable link for people w/ redirect disabled.
